@@ -1,0 +1,1 @@
+-r tests_simple/7/first.txt tests_simple/7/second.txt tests_simple/7/output.txt

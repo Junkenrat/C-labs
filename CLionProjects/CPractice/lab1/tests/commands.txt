@@ -1,0 +1,32 @@
+1
+cc -std=c99 lab1/1/1_1.c -lm -o a.out && ./a.out $(< lab1/tests/1/test1.txt)
+
+2
+cc -std=c99 lab1/2/1_2.c -lm -o a.out && ./a.out $(< lab1/tests/2/test1.txt)
+
+3
+cc -std=c99 lab1/3/1_3.c -lm -o a.out && ./a.out $(< lab1/tests/3/test1.txt)
+
+4
+cc -std=c99 lab1/4/1_4.c -lm -o a.out && ./a.out $(< lab1/tests/4/test1.txt)
+
+5.1
+cc -std=c99 lab1/5/1_5_1.c -lm -o a.out && ./a.out $(< lab1/tests/5_1/test1.txt)
+
+5.2
+cc -std=c99 lab1/5/1_5_2.c -lm -o a.out && ./a.out $(< lab1/tests/5_2/test1.txt)
+
+7
+cc -std=c99 lab1/7/1_7.c -lm -o a.out && ./a.out $(< lab1/tests/7/test1.txt)
+
+8
+cc -std=c99 lab1/8/1_8.c -lm -o a.out && ./a.out $(< lab1/tests/8/test1.txt)
+
+9.1
+cc -std=c99 lab1/9/1_9_1.c -lm -o a.out && ./a.out $(< lab1/tests/9_1/test1.txt)
+
+9.2
+cc -std=c99 lab1/9/1_9_2.c -lm -o a.out && ./a.out
+
+10
+cc -std=c99 lab1/10/1_10.c -lm -o a.out && ./a.out < lab1/tests/10/test1.txt

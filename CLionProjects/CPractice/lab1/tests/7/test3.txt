@@ -1,0 +1,1 @@
+-a tests_simple/7/words.txt tests_simple/7/output.txt

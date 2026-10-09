@@ -1,0 +1,1 @@
+-ni tests_simple/4/input.txt tests_simple/4/output.txt
